@@ -54,104 +54,52 @@ Durante as análises iniciais:
 ---
 
 ## 📊 Visão Geral do Negócio
-<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/Overview.jpg?raw=true" align="right" width="400">
 
-
-- **Faturamento Total:** R$ 13,2M  
-- **Ticket Médio:** R$ 137  
-- **Total de Pedidos:** ~96 mil  
-- **Total de Clientes:** ~93 mil  
+| Principais KPIS | Visualização |
+| :--- | :--- |
+| **Faturamento Total:** R$ 13,2M<br>**Ticket Médio:** R$ 137<br>**Total de Pedidos:** ~96 mil<br>**Total de Clientes:** ~93 mil | <img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/Overview.jpg?raw=true" width="450"> |
 
 ---
 
 ## 📈 Análise Temporal
-<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/analise%20temporal.jpg?raw=true" align="right" width="400">
+
+| Insights e Conclusões | Visualização |
+| :--- | :--- |
+| Crescimento de **+340% de 2017 para 2018** *(com ressalvas)*<br><br>🔍 **Insight Principal:**<br><ul><li>Pico de faturamento em **Maio/2018 (R$ 978 mil)**</li><li>Destaque para categorias:</li><ul><li>Relógios e Presentes</li><li>Beleza e Saúde</li></ul></ul><br>**Conclusão:** Forte indício de sazonalidade (Dia das Mães). | <img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/analise%20temporal.jpg?raw=true" width="450"> |
 
 
-Crescimento de **+340% de 2017 para 2018** *(com ressalvas)*
-
-### 🔍 Insight Principal
-
-- Pico de faturamento em **Maio/2018 (R$ 978 mil)**  
-- Destaque para categorias:
-  - Relógios e Presentes  
-  - Beleza e Saúde  
-
-**Conclusão:** forte indício de sazonalidade (Dia das Mães)
 
 ---
 
 ## 👥 Análise de Clientes
-<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/clientes.jpg?raw=true" align="right" width="400">
 
-
-- Apenas **3% dos clientes são recorrentes**  
-- Frequência média: **1 compra por cliente**
-
-### 🔍 Insight Principal
-
-O negócio depende fortemente de **aquisição de novos clientes**
-
-- Baixa retenção  
-- Receita não correlacionada ao ticket médio  
-
-**Conclusão:** crescimento baseado em volume, não em valor por cliente  
+| Principais Informações | Visualização |
+| :--- | :--- |
+| <ul><li>Apenas **3% dos clientes são recorrentes**</li><li>Frequência média: **1 compra por cliente**</li></ul><br>🔍 **Insight Principal:**<br>O negócio depende fortemente de **aquisição de novos clientes**:<ul><li>Baixa retenção</li><li>Receita não correlacionada ao ticket médio</li></ul><br>**Conclusão:** Crescimento baseado em volume, não em valor por cliente. | <img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/clientes.jpg?raw=true" width="450"> |
 
 ---
 
 ## 📦 Análise de Produtos
-<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/produtos.jpg?raw=true" align="right" width="400">
 
-
-Principais categorias por faturamento:
-
-- Beleza e Saúde — 9,3%  
-- Relógios e Presentes — 8,8%  
-- Cama, Mesa e Banho — 7,8%  
-- Esporte e Lazer — 7,2%  
-- Informática — 6,7%  
-
-### 🔍 Insight Principal
-
-Faturamento distribuído entre categorias, sem forte dependência de uma única.
+| Principais Informações | Visualização |
+| :--- | :--- |
+| Principais categorias por faturamento:<ul><li>**Beleza e Saúde:** 9,3%</li><li>**Relógios e Presentes:** 8,8%</li><li>**Cama, Mesa e Banho:** 7,8%</li><li>**Esporte e Lazer:** 7,2%</li><li>**Informática:** 6,7%</li></ul><br>🔍 **Insight Principal:**<br>Faturamento bem distribuído entre categorias, sem dependência crítica de um único nicho. | <img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/produtos.jpg?raw=true" width="450"> |
 
 ---
 
 ## 🚚 Análise Logística
-<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/logistica.jpg?raw=true" align="right" width="400">
 
-
-- **93% das entregas no prazo (~90 mil pedidos)**  
-
-### 🔍 Insight Principal
-
-A operação logística é eficiente no geral.
-
-**Pontos de atenção:**
-- Entregas acima de 20 dias concentradas em:
-  - RJ (~2,5 mil)  
-  - SP (~1,8 mil)  
-  - BA, MG, RS (~1 mil)  
+| Principais Informações | Visualização |
+| :--- | :--- |
+| <ul><li>**93% das entregas no prazo** (~90 mil pedidos)</li></ul><br>🔍 **Insight Principal:**<br>A operação logística é eficiente no geral.<br><br>⚠️ **Pontos de atenção:**<br>Entregas acima de 20 dias concentradas em:<ul><li>**RJ:** ~2,5 mil</li><li>**SP:** ~1,8 mil</li><li>**BA, MG, RS:** ~1 mil cada</li></ul> | <img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/logistica.jpg?raw=true" width="450"> |
 
 ---
 
 ## ⭐ Análise de Satisfação
-<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/reviews.jpg?raw=true" align="right" width="400">
 
-
-- **77% de avaliações positivas**
-
-### 🔍 Insight Principal
-
-Existe relação direta entre prazo de entrega e satisfação:
-
-| Prazo de Entrega | Satisfação |
-|------------------|-----------|
-| 1–10 dias        | 85%       |
-| >20 dias         | 50%       |
-
----
-
+| Principais Informações | Visualização |
+| :--- | :--- |
+| <ul><li>**77% de avaliações positivas**</li></ul><br>🔍 **Insight Principal:**<br>Existe relação direta entre prazo de entrega e satisfação:<br><br>\| Prazo de Entrega \| Satisfação \|<br>\| :--- \| :--- \|<br>\| 1–10 dias \| **85%** \|<br>\| >20 dias \| **50%** \| | <img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/reviews.jpg?raw=true" width="450"> |
 ## 🔗 Insight Integrado
 
 **Logística impacta diretamente a experiência do cliente**
