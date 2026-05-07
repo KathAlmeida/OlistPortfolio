@@ -173,3 +173,11 @@ O e-commerce apresenta:
 
 - SQL  
 - Power BI 
+
+## 💻 Queries SQL
+
+Algumas consultas utilizadas durante as análises:
+
+- [Faturamento Total](./sql/06_faturamento_total.sql)
+- [Clientes Únicos](./sql/12_quantidade_de_clientes_unicos.sql)
+- [Receita por Tipo de Cliente](./sql/17_participacao_receita_tipo_cliente.sql)
