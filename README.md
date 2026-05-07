@@ -54,6 +54,8 @@ Durante as análises iniciais:
 ---
 
 ## 📊 Visão Geral do Negócio
+<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/Overview.jpg?raw=true" align="right" width="400">
+
 
 - **Faturamento Total:** R$ 13,2M  
 - **Ticket Médio:** R$ 137  
@@ -63,6 +65,8 @@ Durante as análises iniciais:
 ---
 
 ## 📈 Análise Temporal
+<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/analise%20temporal.jpg?raw=true" align="right" width="400">
+
 
 Crescimento de **+340% de 2017 para 2018** *(com ressalvas)*
 
@@ -78,6 +82,8 @@ Crescimento de **+340% de 2017 para 2018** *(com ressalvas)*
 ---
 
 ## 👥 Análise de Clientes
+<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/clientes.jpg?raw=true" align="right" width="400">
+
 
 - Apenas **3% dos clientes são recorrentes**  
 - Frequência média: **1 compra por cliente**
@@ -94,6 +100,8 @@ O negócio depende fortemente de **aquisição de novos clientes**
 ---
 
 ## 📦 Análise de Produtos
+<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/produtos.jpg?raw=true" align="right" width="400">
+
 
 Principais categorias por faturamento:
 
@@ -110,6 +118,8 @@ Faturamento distribuído entre categorias, sem forte dependência de uma única.
 ---
 
 ## 🚚 Análise Logística
+<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/logistica.jpg?raw=true" align="right" width="400">
+
 
 - **93% das entregas no prazo (~90 mil pedidos)**  
 
@@ -126,6 +136,8 @@ A operação logística é eficiente no geral.
 ---
 
 ## ⭐ Análise de Satisfação
+<img src="https://github.com/KathAlmeida/OlistPortfolio/blob/main/images/reviews.jpg?raw=true" align="right" width="400">
+
 
 - **77% de avaliações positivas**
 
